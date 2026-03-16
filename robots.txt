@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bailbond-agent.com/sitemap.xml
