@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://bailbond-agent.com/sitemap.xml
-Sitemap: https://www.angelsbailbonds.com/sitemaps.xml
