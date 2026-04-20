@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-california | how much does a bail bondsman charge in California | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-california | bail bond payment plan California | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-california | jail booking process at County jail | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-california | how to find someone in jail California | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-california | what to expect at arraignment Superior Court | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-california | bail hearing process in Los Angeles County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-california | warrant bail bonds California | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-california | what happens if you miss court date California | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-california | assault and battery bail bonds California | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-california | theft and burglary bail bonds California | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-california | how to choose a bail bondsman in California | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-california | what does a bail bond cosigner do California | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-california | bail conditions and restrictions Los Angeles County | Conditions | ⬜ |
+| 2026-04-21 | Tue | jail-booking-process-california | jail booking process in California | Jail Process | ⬜ |
+| 2026-04-22 | Wed | inmate-search-california | how to find someone in jail California | Inmate Search | ⬜ |
+| 2026-04-23 | Thu | what-to-expect-arraignment-california | what to expect at arraignment in Los Angeles | Court Process | ⬜ |
+| 2026-04-24 | Fri | bail-hearing-california | bail hearing process in Los Angeles | Bail Hearing | ⬜ |
+| 2026-04-25 | Sat | warrant-bail-bonds-california | warrant bail bonds California | Warrants | ⬜ |
+| 2026-04-26 | Sun | what-happens-miss-court-california | what happens if you miss court date California | FTA | ⬜ |
+| 2026-04-27 | Mon | assault-bail-bonds-california | assault and battery bail bonds California | Assault | ⬜ |
+| 2026-04-28 | Tue | theft-bail-bonds-california | theft and burglary bail bonds California | Theft | ⬜ |
+| 2026-04-29 | Wed | choosing-bail-bondsman-california | how to choose a bail bondsman in California | How to Choose | ⬜ |
+| 2026-04-30 | Thu | bail-bond-cosigner-california | what does a bail bond cosigner do California | Cosigner | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
